@@ -1,0 +1,97 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+This project uses multiple third-party libraries.
+
+If you need more licensing information, please refer to the 'license-rules' folder in the project, which contains the detailed license files for all third-party libraries.
+
+Lists of 75 third-party dependencies.
+     (Eclipse Public License - v 1.0) (GNU Lesser General Public License) Logback Classic Module (ch.qos.logback:logback-classic:1.5.7 - http://logback.qos.ch/logback-classic)
+     (Eclipse Public License - v 1.0) (GNU Lesser General Public License) Logback Core Module (ch.qos.logback:logback-core:1.5.7 - http://logback.qos.ch/logback-core)
+     (The Apache Software License, Version 2.0) poi-tl (com.deepoove:poi-tl:1.12.2 - http://deepoove.com/poi-tl)
+     (The Apache Software License, Version 2.0) Jackson-annotations (com.fasterxml.jackson.core:jackson-annotations:2.17.2 - https://github.com/FasterXML/jackson)
+     (The Apache Software License, Version 2.0) Jackson-core (com.fasterxml.jackson.core:jackson-core:2.18.2 - https://github.com/FasterXML/jackson-core)
+     (The Apache Software License, Version 2.0) jackson-databind (com.fasterxml.jackson.core:jackson-databind:2.18.2 - https://github.com/FasterXML/jackson)
+     (BSD License) curvesapi (com.github.virtuald:curvesapi:1.07 - https://github.com/virtuald/curvesapi)
+     (The Apache Software License, Version 2.0) FindBugs-jsr305 (com.google.code.findbugs:jsr305:3.0.2 - http://findbugs.sourceforge.net/)
+     (Apache-2.0) Gson (com.google.code.gson:gson:2.9.0 - https://github.com/google/gson/gson)
+     (Apache 2.0) error-prone annotations (com.google.errorprone:error_prone_annotations:2.28.0 - https://errorprone.info/error_prone_annotations)
+     (The Apache Software License, Version 2.0) Guava InternalFutureFailureAccess and InternalFutures (com.google.guava:failureaccess:1.0.2 - https://github.com/google/guava/failureaccess)
+     (Apache License, Version 2.0) Guava: Google Core Libraries for Java (com.google.guava:guava:33.3.1-jre - https://github.com/google/guava)
+     (The Apache Software License, Version 2.0) Guava ListenableFuture only (com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava - https://github.com/google/guava/listenablefuture)
+     (Apache License, Version 2.0) J2ObjC Annotations (com.google.j2objc:j2objc-annotations:3.0.0 - https://github.com/google/j2objc/)
+     (The Apache Software License, Version 2.0) ZXing Core (com.google.zxing:core:3.5.0 - https://github.com/zxing/zxing/core)
+     (The Apache Software License, Version 2.0) SparseBitSet (com.zaxxer:SparseBitSet:1.2 - https://github.com/brettwooldridge/SparseBitSet)
+     (Apache-2.0) Apache Commons Codec (commons-codec:commons-codec:1.16.1 - https://commons.apache.org/proper/commons-codec/)
+     (Apache-2.0) Apache Commons IO (commons-io:commons-io:2.18.0 - https://commons.apache.org/proper/commons-io/)
+     (The Apache Software License, Version 2.0) Logging (commons-logging:commons-logging:1.0.4 - http://jakarta.apache.org/commons/logging/)
+     (The Apache Software License, Version 2.0) micrometer-commons (io.micrometer:micrometer-commons:1.13.3 - https://github.com/micrometer-metrics/micrometer)
+     (The Apache Software License, Version 2.0) micrometer-observation (io.micrometer:micrometer-observation:1.13.3 - https://github.com/micrometer-metrics/micrometer)
+     (EPL 2.0) (GPL2 w/ CPE) Jakarta Annotations API (jakarta.annotation:jakarta.annotation-api:2.1.1 - https://projects.eclipse.org/projects/ee4j.ca)
+     (Apache License, Version 2.0) Apache Commons Collections (org.apache.commons:commons-collections4:4.4 - https://commons.apache.org/proper/commons-collections/)
+     (Apache-2.0) Apache Commons Compress (org.apache.commons:commons-compress:1.27.1 - https://commons.apache.org/proper/commons-compress/)
+     (Apache-2.0) Apache Commons Lang (org.apache.commons:commons-lang3:3.14.0 - https://commons.apache.org/proper/commons-lang/)
+     (Apache License, Version 2.0) Apache Commons Math (org.apache.commons:commons-math3:3.6.1 - http://commons.apache.org/proper/commons-math/)
+     (Apache-2.0) Apache Log4j API (org.apache.logging.log4j:log4j-api:2.23.1 - https://logging.apache.org/log4j/2.x/log4j/log4j-api/)
+     (Apache-2.0) Apache Log4j to SLF4J Adapter (org.apache.logging.log4j:log4j-to-slf4j:2.23.1 - https://logging.apache.org/log4j/2.x/log4j/log4j-to-slf4j/)
+     (Apache License, Version 2.0) Apache POI - Common (org.apache.poi:poi:5.2.2 - https://poi.apache.org/)
+     (Apache License, Version 2.0) Apache POI - API based on OPC and OOXML schemas (org.apache.poi:poi-ooxml:5.2.2 - https://poi.apache.org/)
+     (Apache License, Version 2.0) Apache POI (org.apache.poi:poi-ooxml-lite:5.2.2 - https://poi.apache.org/)
+     (The Apache Software License, Version 2.0) XmlBeans (org.apache.xmlbeans:xmlbeans:5.0.3 - https://xmlbeans.apache.org/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-anim (org.apache.xmlgraphics:batik-anim:1.17 - http://xmlgraphics.apache.org/batik/batik-anim/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-awt-util (org.apache.xmlgraphics:batik-awt-util:1.17 - http://xmlgraphics.apache.org/batik/batik-awt-util/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-bridge (org.apache.xmlgraphics:batik-bridge:1.17 - http://xmlgraphics.apache.org/batik/batik-bridge/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-codec (org.apache.xmlgraphics:batik-codec:1.17 - http://xmlgraphics.apache.org/batik/batik-codec/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-constants (org.apache.xmlgraphics:batik-constants:1.17 - http://xmlgraphics.apache.org/batik/batik-constants/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-css (org.apache.xmlgraphics:batik-css:1.17 - http://xmlgraphics.apache.org/batik/batik-css/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-dom (org.apache.xmlgraphics:batik-dom:1.17 - http://xmlgraphics.apache.org/batik/batik-dom/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-ext (org.apache.xmlgraphics:batik-ext:1.17 - http://xmlgraphics.apache.org/batik/batik-ext/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-gvt (org.apache.xmlgraphics:batik-gvt:1.17 - http://xmlgraphics.apache.org/batik/batik-gvt/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-i18n (org.apache.xmlgraphics:batik-i18n:1.17 - http://xmlgraphics.apache.org/batik/batik-i18n/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-parser (org.apache.xmlgraphics:batik-parser:1.17 - http://xmlgraphics.apache.org/batik/batik-parser/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-script (org.apache.xmlgraphics:batik-script:1.17 - http://xmlgraphics.apache.org/batik/batik-script/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-shared-resources (org.apache.xmlgraphics:batik-shared-resources:1.17 - http://xmlgraphics.apache.org/batik/batik-shared-resources/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-svg-dom (org.apache.xmlgraphics:batik-svg-dom:1.17 - http://xmlgraphics.apache.org/batik/batik-svg-dom/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-svggen (org.apache.xmlgraphics:batik-svggen:1.17 - http://xmlgraphics.apache.org/batik/batik-svggen/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-transcoder (org.apache.xmlgraphics:batik-transcoder:1.17 - http://xmlgraphics.apache.org/batik/batik-transcoder/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-util (org.apache.xmlgraphics:batik-util:1.17 - http://xmlgraphics.apache.org/batik/batik-util/)
+     (The Apache Software License, Version 2.0) org.apache.xmlgraphics:batik-xml (org.apache.xmlgraphics:batik-xml:1.17 - http://xmlgraphics.apache.org/batik/batik-xml/)
+     (The Apache Software License, Version 2.0) Apache XML Graphics Commons (org.apache.xmlgraphics:xmlgraphics-commons:2.9 - http://xmlgraphics.apache.org/commons/)
+     (The MIT License) Checker Qual (org.checkerframework:checker-qual:3.43.0 - https://checkerframework.org/)
+     (Apache License, Version 2.0) Apache FreeMarker (org.freemarker:freemarker:2.3.31 - https://freemarker.apache.org/)
+     (The Apache License, Version 2.0) JODConverter Core (org.jodconverter:jodconverter-core:4.4.8 - https://github.com/jodconverter/jodconverter)
+     (The Apache License, Version 2.0) JODConverter Local (org.jodconverter:jodconverter-local:4.4.8 - https://github.com/jodconverter/jodconverter)
+     (The Apache License, Version 2.0) Java Uno Helper (org.openoffice:juh:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) Java Uno RunTime (org.openoffice:jurt:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) Java Runtime Interface Definition Library (org.openoffice:ridl:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) UNO interface library (org.openoffice:unoil:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The MIT License) Project Lombok (org.projectlombok:lombok:1.18.34 - https://projectlombok.org)
+     (MIT License) JUL to SLF4J bridge (org.slf4j:jul-to-slf4j:2.0.16 - http://www.slf4j.org)
+     (MIT License) SLF4J API Module (org.slf4j:slf4j-api:2.0.16 - http://www.slf4j.org)
+     (Apache License, Version 2.0) Spring AOP (org.springframework:spring-aop:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Beans (org.springframework:spring-beans:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Context (org.springframework:spring-context:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Core (org.springframework:spring-core:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Expression Language (SpEL) (org.springframework:spring-expression:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Commons Logging Bridge (org.springframework:spring-jcl:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) spring-boot (org.springframework.boot:spring-boot:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-autoconfigure (org.springframework.boot:spring-boot-autoconfigure:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-starter (org.springframework.boot:spring-boot-starter:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-starter-logging (org.springframework.boot:spring-boot-starter-logging:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) SnakeYAML (org.yaml:snakeyaml:2.2 - https://bitbucket.org/snakeyaml/snakeyaml)
+     (The Apache Software License, Version 2.0) (The SAX License) (The W3C License) XML Commons External Components XML APIs (xml-apis:xml-apis:1.4.01 - http://xml.apache.org/commons/components/external/)
+     (The Apache Software License, Version 2.0) XML Commons External Components XML APIs Extensions (xml-apis:xml-apis-ext:1.3.04 - http://xml.apache.org/commons/components/external/)
+
