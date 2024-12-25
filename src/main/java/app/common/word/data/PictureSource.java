@@ -68,7 +68,9 @@ public class PictureSource extends AbstractDataSource {
         switch (this.imageSourceType) {
             case data:
                 try {
-                    builder = Pictures.ofBytes(Files.readAllBytes(Paths.get(Objects.toString(super.readProperty(obj)))));
+                    final String path = Objects.toString(super.readProperty(obj));
+                    final String realPath = FilenameUtils.normalize(path);
+                    builder = Pictures.ofBytes(Files.readAllBytes(Paths.get(realPath)));
                 } catch (IOException e) {
                     throw new RuntimeException(e);
                 }
